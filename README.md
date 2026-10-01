@@ -1,4 +1,4 @@
-# Multi-Agent scrypt Password Hashing Demo
+# Agentic AI scrypt Password Hashing
 
 > **Educational use only.**  
 > This repository is intended to demonstrate password-hashing concepts, defensive security principles, and the computational impact of password-hardening parameters in a controlled environment. Do not use this code against systems, accounts, hashes, or credentials that you do not own or have explicit authorization to test.
