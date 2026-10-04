@@ -1,5 +1,7 @@
 # Agentic AI scrypt Cracking
 
+[![M8ven Score](https://m8ven.ai/badge/mcp/ericyoc/agentic_ai_scrypt_cracking_poc)](https://m8ven.ai/mcp/ericyoc/agentic_ai_scrypt_cracking_poc?s=readme)
+
 > **Educational use only.**  
 > This repository is intended to demonstrate password-hashing concepts, defensive security principles, and the computational impact of password-hardening parameters in a controlled environment. Do not use this code against systems, accounts, hashes, or credentials that you do not own or have explicit authorization to test.
 
