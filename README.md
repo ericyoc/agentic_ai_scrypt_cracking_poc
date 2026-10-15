@@ -1,7 +1,5 @@
 # Agentic AI scrypt Cracking
 
-[![M8ven Score](https://m8ven.ai/badge/mcp/ericyoc/agentic_ai_scrypt_cracking_poc)](https://m8ven.ai/mcp/ericyoc/agentic_ai_scrypt_cracking_poc?s=readme)
-
 <a href="https://lounge.ai/@ericyocam"><img src="https://lounge.ai/api/badge/ericyocam" alt="Eric Yocam on Lounge" height="28"></a>
 
 > **Educational use only.**  
